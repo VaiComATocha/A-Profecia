@@ -412,3 +412,41 @@ Depois que foi destruido pela segunda vez, não se ouviu falar dele.
 	- Taverna da remota vila de Ghardaia.
 	- Administrada por seu dono, Kin, o anão soldado.
 
+---
+
+# Saudações
+### Saudação de Greenwoods
+Que as flores guiem seus caminhos e as folhas sigam seus passos, bravos guerreiros. \
+Qua a lua lhe leve e que o sol te traga. \
+
+# Cartas
+### Silrev para Silmeryia, Despedida.
+> Querida Silmeria \
+Após todos esses anos lhe envio esta carta em segredo, rezando aos deuses que os Zhentarim não a intercepte. Não vim pedir desculpas por não lhe procurar por tanto tempo, nem espero o seu perdão, mas venho lhe pedir um favor. \
+Harpistas da região da cidade de Ghardaia estão preocupados com as atitudes do lorde local. Ele trancou os portões da cidade e vem controlado quem entra e quem sai. A rede de harpistas vem tentado levantar informações (sem sucesso), mas coisas nos levam a acreditar que algo de perigoso pode estar acontecendo lá. Pelo bem da facção e da cidade, pedimos a sua ajuda. Silmeria. Acreditamos que suas habilidades podem ser cruciais para levantar informações. Mas cuidado! Há informações que a magia foi proibida e que os usuários do arcanismo estão sendo caçados e queimados em praça pública. \
+Ao chegar em Ghardaia, use de um disfarce e entre junto a alguma das caravanas de comerciantes que entram na cidade. Estando lá, procure por Morgana. Diga somente a ela que foi enviada pelo corvo de prata. Descubra o porquê da cidade ter sido lacrada. \
+Cuidado com os Zhentarim. \
+Por fim, mande lembranças ao nosso filho. Me pergunto se ele puxou a sua beleza, ele deve ser um homem agora. \
+Contamos com sua ajuda, \
+Slirev Nowrc.
+
+--- 
+
+### Ditos da Profecia
+
+Esta é a história da profecia, contada por muitas gerações como a profecia para o fim da vida humana em toda a ilha de Croros. Eis a profecia:
+
+> Escutem meu aviso, antes que nossa raça chegue a extinção \
+Nossa cultura está perdida em mistérios antigos, cobertos nas areias do tempo \
+ \
+A minoria sagrada sobreviverá ao massacre desta noite \
+Em segredo eles vão entrar nesta nova sociedade \
+ \
+Mil anos a frente, uma criança nascerá \
+Eu tive a visão, as escritas nas paredes \
+Ele andará pela Terra por mil anos ou mais \
+Moldando o caminho, para o fim da humanidade \
+ \
+Então, há esperança como você pode ver, mas devemos agir com rapidez \
+Reúna os escolhidos, aqueles que irão liderar \
+E a humanidade de vez salvar
