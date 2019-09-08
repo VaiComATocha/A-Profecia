@@ -388,3 +388,27 @@ Tinha uma visão mais radical, queria usar magia "menos popular da magia". Se ap
 Sammaster já esperava por isso, decidiu deixar pate da sua alma guardada, virando um lich.
 Retornou como Lich. Foi preciso do avatar d eLathander, Helm e mais uns três escolhidos de Mistra. \
 Depois que foi destruido pela segunda vez, não se ouviu falar dele.
+
+---
+
+# Lugares
+### Boros
+- Antigamente, próspera e aberta para todas as raças. Predominância de elfos;
+- Se perdeu na própria ganância;
+- Lenda de que uma guilda de magos entrou em conflito pelo poder da cidade, que culminou em uma espécie de implosão arcana no local;
+	- Faz, talvez, 200 anos;
+	- Não há registro de sobreviventes;
+	- Morgana e Luna ja conheceram o lugar;
+
+### Ghardaia
+	- Pequena vila a sul de Greenwoods, Oeste de Tomb;
+	- Rota comercial de Lemes;
+
+### Taverna do Machado Voados
+	- Administrado pela halfling Nin e o Meio Gigante;
+	- Sales
+
+### Taverna Punhos de Prata
+	- Taverna da remota vila de Ghardaia.
+	- Administrada por seu dono, Kin, o anão soldado.
+
