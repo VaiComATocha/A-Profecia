@@ -57,16 +57,16 @@ _Legenda_
   - $ Visto em uma visão, em uma floresta;
   - $ Visto em uma armadura negra comandando um exército de mortos vivos na floresta de Espinhos;
 
-- Alfred Klein
-	- @ Lorde A.K | Sacerdote de Ghardaia
-	- % Morto;
-	- & Enterrado em Lemes
+- Alfred Klain
+  - @ Lorde A.K | Sacerdote de Ghardaia
+  - % Morto (Incerto);
+  - & Enterrado em Lemes
 
 - Allustriel
-	- @ Lady Allustriel;
-	- $ Poderosa maga;
-	- $ Criadora dos harpistas;
-	- $ Esposa de Sammaster, antes da transformação deste em Lich;
+  - @ Lady Allustriel;
+  - $ Poderosa maga;
+  - $ Criadora dos harpistas;
+  - $ Esposa de Sammaster, antes da transformação deste em Lich;
 
 - Anning
   - ! Esfinge
@@ -75,8 +75,8 @@ _Legenda_
   - $ Criada por Luna
 
 - Belmhir Armstrong
-	- ! Humano;
-	- $ Pai de Gustav, Grandhor, Illya e Aez Armstrong.
+  - ! Humano;
+  - $ Pai de Gustav, Grandhor, Illya e Aez Armstrong.
 
 - Brutus
   - ! Humano;
@@ -97,24 +97,26 @@ _Legenda_
   - $ Um dos melhores joalheiros;
 
 - Fideon
-	- ! Anão;
-	- $ Posssui barbas de tentáculos
-	- $ Anão conhecido como grande ferreiro de seu tempo
-	- $ Declarado como louco;
-	- $ Fez um pacto com uma entidade, se transformando em um ferreiro lendário;
-	- $ Conhecido por construir armas que pedem sangue.
-	- $ Faz acordo, pedindo parte de corpos dos contratantes como pagamento;
+  - ! Anão | Deus Menor (para alguns);
+  - $ Posssui barbas de tentáculos
+  - $ Anão conhecido como grande ferreiro de seu tempo
+  - $ Declarado como louco;
+  - $ Fez um pacto com uma entidade, se transformando em um ferreiro lendário;
+  - $ Conhecido por construir armas que pedem sangue.
+  - $ Faz acordo, pedindo parte de corpos dos contratantes como pagamento;
 
 - Grandhor Armstrong
+  - ! Humeno
 
 - Gustav Armstrong
   - ! Humano;
+  - @ Guerra;
   - $ Morto pela comitiva da tocha prateada (Gor'ak);
   - Retornou como morto vivo, montado em um dragão;
   - Morto novamente pela comitiva da tocha prateada (Gor'ak);, transformando-se em pó e deixando um punho de uma espada;
   - % Morto;
 
-- Hendrix 
+- Hendrix Klinger
   - ! Humano;
   - & Ghardaia;
   - $ Lorde da vila de Ghardaia;
@@ -133,15 +135,15 @@ _Legenda_
   - $ Pai biológico de Gor'ak Hellscream;
 
 - Illya Armstrong
-	- ! Humana;
-	- % Morta-viva 
+  - ! Humana;
+  - % Morta-viva 
   - & Tomb;
   - $ Vista em visões, comandando um exército de mortos vivos;
 
 - Kin
-	- ! Anão
-	- $ Dono da taverna punhos de prata. Soldado condecorado, já velho.
-	- & Ghardaia
+  - ! Anão
+  - $ Dono da taverna punhos de prata. Soldado condecorado, já velho.
+  - & Ghardaia
 
 - Lokith
 	- ! Elfa | Aberração (Aranha);
@@ -152,12 +154,12 @@ _Legenda_
   - $ Levada a Mirkwood por Gor'ak;
 
 - Lolth
-	- ! Diabo | Divindade;
-	- $ Quer trazer a escuridão eterna para o mundo
+  - ! Diabo | Divindade;
+  - $ Quer trazer a escuridão eterna para o mundo
 
 - Luna
-	- ! Humana;
-  - & Biblioteca de Sales
+  - ! Humana | Dragonesa;
+  - & Mirkwood;
   - $ Poderosa maga de Sales;
   - $ Reviveu Daraerys;
   - $ Aprisionou Lokith em Sales;
@@ -169,9 +171,9 @@ _Legenda_
   - $ Discípula de Tarmindel;
 
 - Mika
-	- ! Fada;
-	- & Moeda de Mak'din;
-	- $ Cativada a permanecer no artefato por Morgana, criadora do artefato;
+  - ! Fada;
+  - & Moeda de Mak'din;
+  - $ Cativada a permanecer no artefato por Morgana, criadora do artefato;
 
 - Mordritch
   - ! Tierfling;
@@ -181,8 +183,8 @@ _Legenda_
   - $ Assassina de Tarmindel, sua mestre, segundo Luna e Morgana;
 
 - Morgana
-	- ! Humana;
-  - & Biblioteca de Sales;
+  - ! Humana | Dragonesa;
+  - & Mirkwood;
   - $ Poderosa maga harpista;
   - $ *Tomou Lopest como aprendiz harpista*
   - $ Possui escamas de dragão vermelho;
@@ -191,8 +193,22 @@ _Legenda_
   - $ Discipula de Tarmindel
 
 - Sich'marlus'denarth
-	- @ O oráculo | Pai dos deuses
-	- $ Nomeador da comitiva da tocha prateada;
+  - @ O oráculo | Pai dos deuses
+  - $ Nomeador da comitiva da tocha prateada;
+
+- Silmeryia Greenwoods
+  - ! Elfa | Sangue Dracônico
+  - & Greenwoods
+  - $ Faz parte do Véu da meia noite
+  - $ É uma alta harpista
+  - $ Governante de Greenwoods
+  
+- Silrev Nowrc
+  - ! Humano | Druída
+  - & Arredores de Mirkwood
+  - $ Alto Harpista
+  - $ Alto cargo no conclave esperalda
+  - $ Batedor e Protetor da Floresta de Espinhos
 
 - Telendar Fexxol
   - ! Elfo;
@@ -201,9 +217,15 @@ _Legenda_
   - $ Parente de Daenerys;
 
 - Tarmindel
-	- ! Elfa;
-	- $ Poderosa maga, esposa de Telendar
-	- $ Mestre de Mordritch, Luna e Morgana, entre outros;
+  - ! Elfa;
+  - $ Poderosa maga, esposa de Telendar
+  - $ Mestre de Mordritch, Luna e Morgana, entre outros;
+
+- Urien
+  - ! Humano;
+  - & Lemes;
+  - % Morto (Incerto);
+  - $ guia da expedição a Lemes;
 
 ---
 
@@ -396,21 +418,26 @@ Depois que foi destruido pela segunda vez, não se ouviu falar dele.
 - Antigamente, próspera e aberta para todas as raças. Predominância de elfos;
 - Se perdeu na própria ganância;
 - Lenda de que uma guilda de magos entrou em conflito pelo poder da cidade, que culminou em uma espécie de implosão arcana no local;
-	- Faz, talvez, 200 anos;
-	- Não há registro de sobreviventes;
-	- Morgana e Luna ja conheceram o lugar;
+- Faz, talvez, 200 anos;
+- Não há registro de sobreviventes;
+- Morgana e Luna ja conheceram o lugar;
 
 ### Ghardaia
-	- Pequena vila a sul de Greenwoods, Oeste de Tomb;
-	- Rota comercial de Lemes;
+- Pequena vila a sul de Greenwoods, Oeste de Tomb;
+- Rota comercial de Lemes;
 
-### Taverna do Machado Voados
-	- Administrado pela halfling Nin e o Meio Gigante;
-	- Sales
+### Greenwoods
+- Floresta mágica a noroeste de Croros;
+- Governada por Silmeryia Greenwoods;
+- Produz Armas mágicas;
+
+### Taverna do Machado Voador
+- Administrado pela halfling Nin e o Meio Gigante;
+- Sales
 
 ### Taverna Punhos de Prata
-	- Taverna da remota vila de Ghardaia.
-	- Administrada por seu dono, Kin, o anão soldado.
+- Taverna da remota vila de Ghardaia.
+- Administrada por seu dono, Kin, o anão soldado.
 
 ---
 
