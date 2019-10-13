@@ -340,7 +340,7 @@ _Legenda_
   Anões não se cansam, não desistem de lutar.
   ```
 
-#### Volume II: 7 Magias [2x ao dia][1x dia: Travar Magias]
+#### Volume II: 7 Magias [Gasta Slot de magia do mesmo nível][1x dia: Travar Magias]
 
 **História**
 > Estas canções não são pergaminhos, mas algo bastante familiar às anotações arcanas no grimório de um mago. Wood escreveu esse livro como um topo de linha que incluía música de bardos de nível baixo que ele considerava útil. Ele intencionava em ter seu trabalho como um guia para jovens bardos, guiando sua seleção de magias de uma maneira que ele sentia ser apropriada. Invocadores que não possuam a habilidade de ganhar magias de bardo não podem usar as magias, apesar das magias do livro poderem servir como inspiração para pesquisa arcana. O poder secundário do livro é avaliado apenas para bardos. Remover as páginas contendo a canção do livro, destrói a magia secundária daquelas páginas.
@@ -350,8 +350,8 @@ _Legenda_
 Toda vez que for tocar qualquer coisa contida nele, a magia é lançada automaticamente.
 
 **Excessões**
-- Sete últimas magias ficam gravadas no livro. Se uma oitava for lançada, a última da lista é perdida, ao menos que user o "Travar".
-- Qualquer magia pode ser lançada SE HOUVER SPELL SLOT e TEM DE SER RIMADA, CANTADA, ou envolver alguma arte de bardo.
+- Última magia lançada no combate fica no sétimo slot do livro. Ela pode ser mantida ao usar "Travar". 1x Por Dia.
+- Qualquer magia pode ser lançada **SE HOUVER SPELL** SLOT e TEM DE SER RIMADA, CANTADA, ou envolver alguma arte de bardo.
 
 - Segredos | _Arcane lock_
   ```
