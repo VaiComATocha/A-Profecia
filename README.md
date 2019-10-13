@@ -45,6 +45,11 @@ _Legenda_
 **%** _Condição_ \
 **$** _Informações_
 
+- Adam
+  - ! Humano
+  - & Lemes, no Quartel da Guarda;
+  - % Vivo;
+
 - Adran 
   - ! Elfo
   - & Saleta dimensional, dentro do palácio de Mirkwood;
@@ -68,6 +73,13 @@ _Legenda_
   - $ Criadora dos harpistas;
   - $ Esposa de Sammaster, antes da transformação deste em Lich;
 
+- Amanda Raven
+  - ! Humana;
+  - @ A louca;
+  - % Morta (Visto em sonho);
+  - $ Amor prometido de Aez Armstrong;
+  - $ Supostamente morta por Gustav, em Tomb;
+
 - Anning
   - ! Esfinge
   - & Saleta Dimensional do palácio de Mirkwood;
@@ -77,6 +89,12 @@ _Legenda_
 - Belmhir Armstrong
   - ! Humano;
   - $ Pai de Gustav, Grandhor, Illya e Aez Armstrong.
+
+- Borgun
+  - ! Anão;
+  - & Batalha de Mirkwood;
+  - $ Amigo de longa data de Gor'ak;
+  - $ Ajudou na batalha de Mirkwood, com exército de anões vindos das montanhas do norte;
 
 - Brutus
   - ! Humano;
@@ -121,6 +139,12 @@ _Legenda_
   - & Ghardaia;
   - $ Lorde da vila de Ghardaia;
 
+- Illania
+  - ! Elfa;
+  - & Greenwoods;
+  - % Viva;
+  - $ Guarda pessoal de Silmeryia Greenwoods;
+
 - Irmãos Nyagyni
   - ! Drows gêmeos
   - & Construção abaixo da casa de banho de Mirkwood;
@@ -140,6 +164,12 @@ _Legenda_
   - & Tomb;
   - $ Vista em visões, comandando um exército de mortos vivos;
 
+- Julius:
+  - ! Humano;
+  - % Vivo;
+  - & Lemes;
+  - $ Clérigo de Lathander em Lemes;
+
 - Kin
   - ! Anão
   - $ Dono da taverna punhos de prata. Soldado condecorado, já velho.
@@ -152,6 +182,7 @@ _Legenda_
   - $ Filha de Adran;
   - $ Foi prisioneira em Sales, cativa da maga Luna;
   - $ Levada a Mirkwood por Gor'ak;
+  - $ Morta em Mirkwood por Mordritch;
 
 - Lolth
   - ! Diabo | Divindade;
