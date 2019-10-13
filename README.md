@@ -39,11 +39,11 @@
 # Pessoas
 _Legenda_
 
-**!** _Raça_ \
-**@** _Outros Nomes / Títulos \
-**&** _Último local visto_ \
-**%** _Condição_ \
-**$** _Informações_
+> **!** _Raça_ \
+> **@** _Outros Nomes / Títulos \
+> **&** _Último local visto_ \
+> **%** _Condição_ \
+> **$** _Informações_
 
 - Adam
   - ! Humano
