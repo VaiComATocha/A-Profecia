@@ -508,3 +508,10 @@ Moldando o caminho, para o fim da humanidade \
 Então, há esperança como você pode ver, mas devemos agir com rapidez \
 Reúna os escolhidos, aqueles que irão liderar \
 E a humanidade de vez salvar
+
+##### Nos Salões de Mármore
+
+O último raio de sol
+Aqui repousou e como seu último desejo sua arma aqui foi selada
+Mostre-se indigno da tarefa que ele deixou
+e mais que sua vida será levada
